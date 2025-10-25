@@ -76,7 +76,7 @@ Every project lives in a "repository" on GitHub. Let's create one to practice in
 4.  **Description:** "A repository for practicing the GitHub collaborative workflow."
 5.  **Initialize this repository with:**
     *   **[✅] Add a README file:** **This is essential.** It gives us our first file to work with.
-    *   **[✅] Add .gitignore:** Select a template from the dropdown, like `HTML`.
+    *   **[✅] Add .gitignore:** Select a template from the dropdown, like `Node`.
 6.  Click the green **"Create repository"** button.
 
 ### Step 2: Clone the Repository to Your Computer

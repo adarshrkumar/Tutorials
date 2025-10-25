@@ -40,7 +40,7 @@ Before we can practice the workflow, we need to set up our tools.
 
 Even though we'll be using a graphical application, GitHub Desktop is a visual tool *for* Git. The underlying Git software must be installed on your computer first.
 
-1.  Go to the official Git download page: [https://git-scm.com/downloads](https://git-scm.com/downloads){:target="_blank"}
+1.  Go to the official Git download page: <a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a>
 2.  Download the installer for your operating system (Windows, Mac, or Linux).
 3.  Run the installer. For most users, **the default settings are all you need**. You can click "Next" through all the installation steps.
 
@@ -48,14 +48,14 @@ Even though we'll be using a graphical application, GitHub Desktop is a visual t
 
 GitHub is where your projects will be stored and shared.
 
-1.  Go to [https://github.com](https://github.com){:target="_blank"}.
+1.  Go to <a href="https://github.com" target="_blank">https://github.com</a>.
 2.  Click **"Sign up"** and follow the instructions to create your free account. Choose a username you like—it will be part of your public profile.
 
 ### Step 3: Install and Configure GitHub Desktop
 
 This is the main application we will use for our workflow.
 
-1.  Go to the GitHub Desktop official website: [https://desktop.github.com/](https://desktop.github.com/){:target="_blank"}
+1.  Go to the GitHub Desktop official website: <a href="https://desktop.github.com" target="_blank">https://desktop.github.com</a>
 2.  Download and run the installer for your operating system.
 3.  Once the installation is complete, launch GitHub Desktop.
 4.  The application will prompt you to **"Sign in to GitHub.com"**. Click this and follow the steps to authorize the application with the GitHub account you created in Step 2.
